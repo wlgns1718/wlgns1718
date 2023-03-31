@@ -5,6 +5,9 @@
 ![Jihoon's GitHub stats](https://github-readme-stats.vercel.app/api?username=wlgns1718&theme=react&show_icons=true)
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=wlgns1718)](https://solved.ac/wlgns1718/)
 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=wlgns1718&layout=compact&theme=hiberbee)
+
+
 # Skills🛠
 ### Platforms & Languages
 ![Java](https://img.shields.io/badge/Java-FF7F7F.svg?&style=for-the-badge&logo=Java&logoColor=white)
